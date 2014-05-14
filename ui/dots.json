@@ -1,0 +1,30 @@
+	{
+	"nodes":[
+		{"name":"Intro"},
+		{"name":"The Magic Number"},
+		{"name":"Change In Speak"},
+		{"name":"Cool Breeze On The Rocks"},
+		{"name":"Can U Keep A Secret"},
+		{"name":"Jenifa Taught Me"},
+		{"name":"Ghetto Thang"},
+		{"name":"Transmitting Live From Mars"},
+		{"name":"Eye Know"},
+		{"name":"Take It Off"},
+		{"name":"A Little Bit Of Soap"},
+		{"name":"Tread Water"},
+		{"name":"Potholes In My Lawn"},
+		{"name":"Say No Go"},
+		{"name":"Do As De La Does"},
+		{"name":"Plug Tunin "},
+		{"name":"De La Orgee"},
+		{"name":"Buddy"},
+		{"name":"Description"},
+		{"name":"Me, Myself And I"},
+		{"name":"This Is A Recording 4 Living In A Fulltime Era"},
+		{"name":"I Can Do Anything"},
+		{"name":"D.A.I.S.Y. Age"}
+	],
+	"links":[
+		{"source":0,"target":1},{"source":16,"target":21},{"source":17,"target":5},{"source":5,"target":11},{"source":17,"target":3},{"source":4,"target":12},{"source":22,"target":8},{"source":11,"target":7},{"source":4,"target":20},{"source":9,"target":6},{"source":3,"target":20},{"source":17,"target":14},{"source":19,"target":12},{"source":7,"target":12},{"source":4,"target":5},{"source":2,"target":9},{"source":17,"target":1},{"source":2,"target":0},{"source":4,"target":22},{"source":18,"target":10},{"source":7,"target":6},{"source":9,"target":17},{"source":18,"target":4},{"source":3,"target":22},{"source":22,"target":5},{"source":7,"target":2},{"source":8,"target":9},{"source":0,"target":15},{"source":7,"target":15},{"source":3,"target":9},{"source":6,"target":7},{"source":8,"target":15},{"source":1,"target":19},{"source":13,"target":10},{"source":10,"target":3},{"source":0,"target":12},{"source":20,"target":3},{"source":19,"target":14},{"source":5,"target":13},{"source":21,"target":8},{"source":6,"target":3},{"source":14,"target":17},{"source":10,"target":5},{"source":15,"target":15},{"source":6,"target":4},{"source":17,"target":20},{"source":6,"target":5},{"source":4,"target":18},{"source":12,"target":18},{"source":13,"target":4},{"source":1,"target":9},{"source":11,"target":6},{"source":5,"target":7},{"source":20,"target":22},{"source":20,"target":22},{"source":22,"target":8},{"source":18,"target":0},{"source":1,"target":1},{"source":7,"target":2},{"source":0,"target":17},{"source":0,"target":0}
+	]
+}
